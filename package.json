@@ -1,5 +1,10 @@
 {
   "devDependencies": {
     "typecript": "^0.0.1-security"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
   }
 }
